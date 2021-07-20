@@ -1,5 +1,5 @@
 # Drum-Kit
-Drum-Kit, lets you experience playing a real-life drum kit in any style!
+Drum-Kit, lets you experience playing a real-life drum kit in any style! Use your keyboard or mouse to play!!
 
 ### ScreenShots
 
